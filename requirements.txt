@@ -1,3 +1,8 @@
 sqlalchemy
 openpyxl
 psycopg2
+streamlit
+pandas
+numpy
+requests
+plotly
